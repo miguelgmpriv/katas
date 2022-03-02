@@ -23,8 +23,17 @@
             "type": "pwa-node"
         },
         {
+            "name": "Launch 6kyu",
+            "program": "${workspaceFolder}/6 kyu/findNb.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
             "name": "Launch 7kyu",
-            "program": "${workspaceFolder}/7 kyu/descendingOrder.js",
+            "program": "${workspaceFolder}/7 kyu/DNAStrand.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -33,7 +42,7 @@
         },
         {
             "name": "Launch 8kyu",
-            "program": "${workspaceFolder}/8 kyu/sumStr.js",
+            "program": "${workspaceFolder}/8 kyu/abbrevName.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
