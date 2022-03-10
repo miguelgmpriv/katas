@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Launch 5kyu",
-            "program": "${workspaceFolder}/5 kyu/caesarshift.js",
+            "program": "${workspaceFolder}/5 kyu/maxSequence.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -24,7 +24,7 @@
         },
         {
             "name": "Launch 6kyu",
-            "program": "${workspaceFolder}/6 kyu/findNb.js",
+            "program": "${workspaceFolder}/6 kyu/high.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -33,7 +33,7 @@
         },
         {
             "name": "Launch 7kyu",
-            "program": "${workspaceFolder}/7 kyu/DNAStrand.js",
+            "program": "${workspaceFolder}/7 kyu/ageInDays.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
