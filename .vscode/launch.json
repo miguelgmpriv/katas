@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Launch 5kyu",
-            "program": "${workspaceFolder}/5 kyu/maxSequence.js",
+            "program": "${workspaceFolder}/5 kyu/dirReduc.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -24,7 +24,7 @@
         },
         {
             "name": "Launch 6kyu",
-            "program": "${workspaceFolder}/6 kyu/high.js",
+            "program": "${workspaceFolder}/6 kyu/buildTower.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -33,7 +33,7 @@
         },
         {
             "name": "Launch 7kyu",
-            "program": "${workspaceFolder}/7 kyu/ageInDays.js",
+            "program": "${workspaceFolder}/7 kyu/removeSmallest.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -42,7 +42,7 @@
         },
         {
             "name": "Launch 8kyu",
-            "program": "${workspaceFolder}/8 kyu/abbrevName.js",
+            "program": "${workspaceFolder}/8 kyu/countBy.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
